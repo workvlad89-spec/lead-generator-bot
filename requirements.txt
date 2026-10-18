@@ -1,1 +1,8 @@
 
+streamlit
+pandas
+requests
+beautifulsoup4
+scrapegraphai
+python-dotenv
+
